@@ -31,6 +31,7 @@ Exploratory Data Analysis was conducted in Tableau to understand the overall pat
 
 ### 5.1 Delay Trend Over Time
 ![Delay Count Trend Over Time](figures/is_delay_monthly.png)
+
 **Key Insight**:
 The total volume of delayed orders shows a clear upward trend from late 2016 to early 2018. Delays remained very low through most of 2017, then spiked sharply starting in November 2017, hitting a peak of 1,496 delayed orders in February 2018. After this peak, delayed order counts fluctuated but stayed much higher than the 2016–mid-2017 baseline. This time-series pattern suggests that seasonal or operational changes in late 2017 significantly worsened delivery performance.
 
@@ -42,6 +43,7 @@ The boxplot compares delivery lead time distributions between on-time and delaye
 
 ### 5.3 Regional Variation in Order Delay Count
 ![Regional Variation in Order Delay Count](figures/region_delay.png)
+
 **Key Insight**:
 This horizontal bar chart shows the total count of delayed orders across Brazilian states. São Paulo has the highest delayed order volume of 2,387, followed by Rio de Janeiro with 1,664 delayed orders. Most other states record far fewer delayed orders. This concentration matches the fact that Brazil’s southeast region holds the largest customer base; this metric represents absolute delayed order count rather than delay percentage.
 

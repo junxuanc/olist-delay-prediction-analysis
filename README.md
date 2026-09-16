@@ -36,6 +36,7 @@ The total volume of delayed orders shows a clear upward trend from late 2016 to 
 
 ### 5.2 Distribution of Delivery Delay Duration
 ![Delivery Duration: On-time vs Delayed Orders](figures/delivery_interval.png)
+
 **Key Insight**:
 The boxplot compares delivery lead time distributions between on-time and delayed orders. On-time orders typically arrive within roughly 10–20 days. Delayed orders have a median delivery duration around 30 days, with a wide spread and many extreme outliers exceeding 100 days. The chart shows the clear separation in delivery lead time between the two groups.
 

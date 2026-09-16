@@ -35,7 +35,7 @@ Exploratory Data Analysis was conducted in Tableau to understand the overall pat
 The total volume of delayed orders shows a clear upward trend from late 2016 to early 2018. Delays remained very low through most of 2017, then spiked sharply starting in November 2017, hitting a peak of 1,496 delayed orders in February 2018. After this peak, delayed order counts fluctuated but stayed much higher than the 2016–mid-2017 baseline. This time-series pattern suggests that seasonal or operational changes in late 2017 significantly worsened delivery performance.
 
 ### 5.2 Distribution of Delivery Delay Duration
-![Delivery Duration: On-time vs Delayed Orders](figures/delivery_interval.png)
+![Delivery Duration: On-time vs Delayed Orders](figures/delivery interval.png)
 **Key Insight**:
 The boxplot compares delivery lead time distributions between on-time and delayed orders. On-time orders typically arrive within roughly 10–20 days. Delayed orders have a median delivery duration around 30 days, with a wide spread and many extreme outliers exceeding 100 days. The chart shows the clear separation in delivery lead time between the two groups.
 
